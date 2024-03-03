@@ -21,7 +21,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
+  - name: Brown University
     url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -41,9 +41,9 @@ education:
     - course: PhD in Civil Engineering  
       institution: Penn State
       year: 2021
-    - course: MEng in Artificial Intelligence
+    - course: MEng in Xiamen University 
       institution: Massachusetts Institute of Technology
-      year: 2009
+      year: 2018
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
